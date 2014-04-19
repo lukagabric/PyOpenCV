@@ -42,7 +42,7 @@ def detect_and_draw(image):
     # detect objects
     
     # locate relevant haar cascade data
-    haarlocation = '/Users/lukagabric/Workspaces/Kepler/Workspaces/PyOpenCV/haarcascade_frontalface_alt.xml' # Mac OS X example
+    haarlocation = '../Resources/haarcascade_frontalface_alt.xml' # Mac OS X example
     
     # load haar cascade data
     cascade = cv.Load(haarlocation)
