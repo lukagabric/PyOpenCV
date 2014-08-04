@@ -59,7 +59,7 @@ if __name__ == "__main__":
                 cv2.circle(imageArray,(i[0],i[1]),i[2],(0,255,0),2)
                 # draw the center of the circle
                 cv2.circle(imageArray,(i[0],i[1]),2,(0,0,255),3)
-                print "center = (%d, %d)", i[0], i[1]
+                print "center = ", i[0], ",", i[1]
         
         # display webcam image
         cv.ShowImage('Original', originalImage)
