@@ -3,6 +3,6 @@ PyOpenCV
 
 Python + OpenCV Samples
 
-- PyOCVCircle.py - detection of yellof circular objects
-- PyOCVFace.py - face detection
-- PyOCVSmile.py - smile detection
+- PyOpenCVPackage/PyOCVCircle.py - detection of yellof circular objects
+- PyOpenCVPackage/PyOCVFace.py - face detection
+- PyOpenCVPackage/PyOCVSmile.py - smile detection
